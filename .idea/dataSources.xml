@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="texas@localhost" uuid="b5f7c81c-e831-47e7-b123-29fc0a7533d8">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/texas</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="account-service/Hibernate" uuid="2dce1b0a-9bd4-46e9-a899-7216a6a87343">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/texas</jdbc-url>
+    </data-source>
+  </component>
+</project>

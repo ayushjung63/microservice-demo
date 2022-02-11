@@ -1,0 +1,7 @@
+
+r	java:S116"]Rename this field "API_SUCCESS_STATUS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ÉÜ¼
+u	java:S116	"[Rename this field "API_ERROR_STATUS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÃô¬þÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(‡ÉÜ¼
+<
+java:S1170	"!Make this final field static too.(ÂÃô¬þÿÿÿÿ

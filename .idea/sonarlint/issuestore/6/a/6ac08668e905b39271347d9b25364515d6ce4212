@@ -1,0 +1,8 @@
+
+n	java:S116"ZRename this field "STUDENT_SERVICE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Žÿ^
+6
+java:S1170"!Make this final field static too.(˜Žÿ^
+R
+java:S1172"0Remove this unused method parameter "studentId".(ã¥´Úüÿÿÿÿ8µÜÂÇî/
+z
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "student".(±ñäÑøÿÿÿÿ
